@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.biblioteca'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // H2 Database
+    implementation 'com.h2database:h2:2.2.224' // Asegúrate de usar la última versión estable
+
+    // Para Logging (Log4j2)
+    implementation 'org.apache.logging.log4j:log4j-api:2.23.1' // Última versión estable
+    implementation 'org.apache.logging.log4j:log4j-core:2.23.1'
+
+    // Para pruebas (opcional, pero recomendado)
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.10.0'
+}
+
+application {
+    mainClass = 'com.biblioteca.main.BibliotecaApp' // Tu clase principal
+}
+
+test {
+    useJUnitPlatform()
+}

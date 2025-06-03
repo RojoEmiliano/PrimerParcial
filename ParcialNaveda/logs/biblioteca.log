@@ -1,0 +1,145 @@
+2025-06-03 09:17:47.423 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:17:52.736 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:17:52.736 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Libros' si no existe...
+2025-06-03 09:17:52.738 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Libros' creada/verificada.
+2025-06-03 09:17:52.739 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Socios' si no existe...
+2025-06-03 09:17:52.739 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Socios' creada/verificada.
+2025-06-03 09:17:52.739 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Prestamos' si no existe...
+2025-06-03 09:17:52.746 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Prestamos' creada/verificada.
+2025-06-03 09:26:29.801 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:26:35.215 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:26:35.215 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Libros' si no existe...
+2025-06-03 09:26:35.216 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Libros' creada/verificada.
+2025-06-03 09:26:35.216 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Socios' si no existe...
+2025-06-03 09:26:35.216 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Socios' creada/verificada.
+2025-06-03 09:26:35.216 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Prestamos' si no existe...
+2025-06-03 09:26:35.216 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Prestamos' creada/verificada.
+2025-06-03 09:28:18.391 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:28:23.625 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:28:23.631 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Libro creado con ID: 1 - El hombre del Poder
+2025-06-03 09:28:44.640 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:28:49.782 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:28:49.786 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Listados 1 libros.
+2025-06-03 09:29:37.101 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:29:42.349 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:29:42.350 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Libro creado con ID: 2 - Inteligencia Emocional
+2025-06-03 09:35:22.795 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:35:28.235 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:35:28.235 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Libros' si no existe...
+2025-06-03 09:35:28.236 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Libros' creada/verificada.
+2025-06-03 09:35:28.236 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Socios' si no existe...
+2025-06-03 09:35:28.236 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Socios' creada/verificada.
+2025-06-03 09:35:28.236 [main] INFO  com.rentcar.util.DatabaseConnection - Creando tabla 'Prestamos' si no existe...
+2025-06-03 09:35:28.236 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Prestamos' creada/verificada.
+2025-06-03 09:35:44.604 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:35:49.903 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:35:49.908 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Listados 2 libros.
+2025-06-03 09:36:07.822 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:36:12.937 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:36:12.941 [main] INFO  com.rentcar.dao.impl.PrestamoDAOImpl - Listados 0 préstamos para el Libro ID 1
+2025-06-03 09:36:13.145 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:36:17.828 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:36:17.829 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Libro eliminado con ID: 1
+2025-06-03 09:38:24.070 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:38:29.182 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:38:29.183 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Listados 1 libros.
+2025-06-03 09:38:43.235 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:38:48.381 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:38:48.381 [main] INFO  com.rentcar.dao.impl.PrestamoDAOImpl - Listados 0 préstamos para el Libro ID 2
+2025-06-03 09:38:48.584 [main] INFO  com.rentcar.util.DatabaseConnection - Intentando establecer conexión con la base de datos H2...
+2025-06-03 09:38:53.277 [main] INFO  com.rentcar.util.DatabaseConnection - Conexión a la base de datos H2 establecida con éxito.
+2025-06-03 09:38:53.279 [main] INFO  com.rentcar.dao.impl.LibroDAOImpl - Libro eliminado con ID: 2
+2025-06-03 10:07:52.878 [main] ERROR com.rentcar.util.ConexionBD - Error al crear tablas en la base de datos: IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"
+IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:init.sql' [90031-224]
+org.h2.jdbc.JdbcSQLNonTransientException: IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"
+IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:init.sql' [90031-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.get(DbException.java:212) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.convertIOException(DbException.java:454) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.ScriptBase.openInput(ScriptBase.java:170) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.RunScriptCommand.update(RunScriptCommand.java:53) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.Command.executeUpdate(Command.java:256) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.Engine.openSession(Engine.java:280) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.Engine.createSession(Engine.java:201) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.Driver.connect(Driver.java:59) ~[h2-2.2.224.jar:2.2.224]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229) ~[java.sql:?]
+	at com.rentcar.util.ConexionBD.getConnection(ConexionBD.java:20) ~[main/:?]
+	at com.rentcar.util.ConexionBD.createTables(ConexionBD.java:66) [main/:?]
+	at main.RentCarApp.main(RentCarApp.java:35) [main/:?]
+Caused by: java.io.FileNotFoundException: resource /init.sql
+	at org.h2.store.fs.disk.FilePathDisk.newInputStream(FilePathDisk.java:434) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.store.fs.FileUtils.newInputStream(FileUtils.java:277) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.ScriptBase.openInput(ScriptBase.java:168) ~[h2-2.2.224.jar:2.2.224]
+	... 13 more
+2025-06-03 10:10:13.218 [main] ERROR com.rentcar.util.ConexionBD - Error al crear tablas en la base de datos: IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"
+IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:init.sql' [90031-224]
+org.h2.jdbc.JdbcSQLNonTransientException: IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"
+IO Exception: "java.io.FileNotFoundException: resource /init.sql"; "classpath:init.sql"; SQL statement:
+RUNSCRIPT FROM 'classpath:init.sql' [90031-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.get(DbException.java:212) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.message.DbException.convertIOException(DbException.java:454) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.ScriptBase.openInput(ScriptBase.java:170) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.RunScriptCommand.update(RunScriptCommand.java:53) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.Command.executeUpdate(Command.java:256) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.Engine.openSession(Engine.java:280) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.Engine.createSession(Engine.java:201) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:343) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:125) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.Driver.connect(Driver.java:59) ~[h2-2.2.224.jar:2.2.224]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:681) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229) ~[java.sql:?]
+	at com.rentcar.util.ConexionBD.getConnection(ConexionBD.java:20) ~[main/:?]
+	at com.rentcar.util.ConexionBD.createTables(ConexionBD.java:66) [main/:?]
+	at main.RentCarApp.main(RentCarApp.java:35) [main/:?]
+Caused by: java.io.FileNotFoundException: resource /init.sql
+	at org.h2.store.fs.disk.FilePathDisk.newInputStream(FilePathDisk.java:434) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.store.fs.FileUtils.newInputStream(FileUtils.java:277) ~[h2-2.2.224.jar:2.2.224]
+	at org.h2.command.dml.ScriptBase.openInput(ScriptBase.java:168) ~[h2-2.2.224.jar:2.2.224]
+	... 13 more
+2025-06-03 10:17:04.653 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Vehiculos' verificada/creada.
+2025-06-03 10:17:04.656 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Clientes' verificada/creada.
+2025-06-03 10:17:04.667 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Alquileres' verificada/creada.
+2025-06-03 10:17:38.421 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Vehículo creado con ID: 1 - Volkswagen Gol Trend
+2025-06-03 10:17:47.491 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Listados 1 vehículos.
+2025-06-03 10:18:13.715 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Vehículo creado con ID: 2 - Audi A3
+2025-06-03 10:18:22.788 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Listados 2 vehículos.
+2025-06-03 10:19:32.471 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Vehículo creado con ID: 3 - Seat Leon
+2025-06-03 10:20:08.825 [main] INFO  com.rentcar.dao.impl.ClienteDAOImpl - Cliente creado con ID: 1 - Walter Sanchez
+2025-06-03 10:20:42.139 [main] INFO  com.rentcar.dao.impl.ClienteDAOImpl - Cliente creado con ID: 2 - Cristian Ronald
+2025-06-03 10:21:04.756 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Alquiler registrado para Vehículo ID 1 y Cliente ID 2
+2025-06-03 10:21:04.758 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Estado del Vehículo ID 1 actualizado a NO DISPONIBLE.
+2025-06-03 10:21:04.758 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Transacción de registro de alquiler completada con éxito.
+2025-06-03 10:21:17.461 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Fecha de finalización registrada para Alquiler ID 1
+2025-06-03 10:21:17.462 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Estado del Vehículo ID 1 actualizado a DISPONIBLE.
+2025-06-03 10:21:17.462 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Transacción de registro de devolución completada con éxito.
+2025-06-03 10:21:38.058 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Alquiler registrado para Vehículo ID 3 y Cliente ID 1
+2025-06-03 10:21:38.058 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Estado del Vehículo ID 3 actualizado a NO DISPONIBLE.
+2025-06-03 10:21:38.058 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Transacción de registro de alquiler completada con éxito.
+2025-06-03 10:21:42.686 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Listados 1 alquileres activos.
+2025-06-03 10:22:01.855 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Listados 2 alquileres.
+2025-06-03 10:22:11.946 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Fecha de finalización registrada para Alquiler ID 2
+2025-06-03 10:22:11.947 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Estado del Vehículo ID 3 actualizado a DISPONIBLE.
+2025-06-03 10:22:11.947 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Transacción de registro de devolución completada con éxito.
+2025-06-03 10:22:21.013 [main] INFO  main.RentCarApp - Aplicación de Rent-A-Car finalizada.
+2025-06-03 10:29:17.378 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Vehiculos' verificada/creada.
+2025-06-03 10:29:17.380 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Clientes' verificada/creada.
+2025-06-03 10:29:17.381 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Alquileres' verificada/creada.
+2025-06-03 10:29:41.143 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Listados 3 vehículos.
+2025-06-03 10:30:12.393 [main] INFO  main.RentCarApp - Aplicación de Rent-A-Car finalizada.
+2025-06-03 10:31:52.233 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Vehiculos' verificada/creada.
+2025-06-03 10:31:52.235 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Clientes' verificada/creada.
+2025-06-03 10:31:52.236 [main] INFO  com.rentcar.util.DatabaseConnection - Tabla 'Alquileres' verificada/creada.
+2025-06-03 10:32:04.799 [main] INFO  com.rentcar.dao.impl.VehiculoDAOImpl - Listados 3 vehículos.
+2025-06-03 10:32:28.027 [main] INFO  com.rentcar.dao.impl.AlquilerDAOImpl - Listados 2 alquileres.
+2025-06-03 10:32:43.173 [main] INFO  main.RentCarApp - Aplicación de Rent-A-Car finalizada.
